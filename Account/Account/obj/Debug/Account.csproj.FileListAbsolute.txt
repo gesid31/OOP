@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\Account\Account\bin\Debug\Account.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\Account\Account\bin\Debug\Account.exe
+c:\users\siddh\documents\visual studio 2015\Projects\Account\Account\bin\Debug\Account.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.exe
+c:\users\siddh\documents\visual studio 2015\Projects\Account\Account\obj\Debug\Account.pdb
+C:\Users\siddh\Documents\Visual Studio 2015\Projects\Account\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache

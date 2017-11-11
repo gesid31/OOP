@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\FactorialTest\FactorialTest\bin\Debug\FactorialTest.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\FactorialTest\FactorialTest\bin\Debug\FactorialTest.exe
+c:\users\siddh\documents\visual studio 2015\Projects\FactorialTest\FactorialTest\bin\Debug\FactorialTest.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\FactorialTest\FactorialTest\obj\Debug\FactorialTest.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\FactorialTest\FactorialTest\obj\Debug\FactorialTest.exe
+c:\users\siddh\documents\visual studio 2015\Projects\FactorialTest\FactorialTest\obj\Debug\FactorialTest.pdb

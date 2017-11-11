@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\scope\scope\bin\Debug\scope.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\scope\scope\obj\Debug\scope.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\scope\scope\bin\Debug\scope.exe
+c:\users\siddh\documents\visual studio 2015\Projects\scope\scope\bin\Debug\scope.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\scope\scope\obj\Debug\scope.exe
+c:\users\siddh\documents\visual studio 2015\Projects\scope\scope\obj\Debug\scope.pdb

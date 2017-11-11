@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\calculatePowers\calculatePowers\bin\Debug\calculatePowers.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\calculatePowers\calculatePowers\bin\Debug\calculatePowers.exe
+c:\users\siddh\documents\visual studio 2015\Projects\calculatePowers\calculatePowers\bin\Debug\calculatePowers.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\calculatePowers\calculatePowers\obj\Debug\calculatePowers.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\calculatePowers\calculatePowers\obj\Debug\calculatePowers.exe
+c:\users\siddh\documents\visual studio 2015\Projects\calculatePowers\calculatePowers\obj\Debug\calculatePowers.pdb

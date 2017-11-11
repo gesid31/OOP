@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\SummingTheNumbers\SummingTheNumbers\bin\Debug\SummingTheNumbers.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\SummingTheNumbers\SummingTheNumbers\bin\Debug\SummingTheNumbers.exe
+c:\users\siddh\documents\visual studio 2015\Projects\SummingTheNumbers\SummingTheNumbers\bin\Debug\SummingTheNumbers.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\SummingTheNumbers\SummingTheNumbers\obj\Debug\SummingTheNumbers.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\SummingTheNumbers\SummingTheNumbers\obj\Debug\SummingTheNumbers.exe
+c:\users\siddh\documents\visual studio 2015\Projects\SummingTheNumbers\SummingTheNumbers\obj\Debug\SummingTheNumbers.pdb

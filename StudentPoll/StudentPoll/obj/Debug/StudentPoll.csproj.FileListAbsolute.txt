@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe
+c:\users\siddh\documents\visual studio 2015\Projects\StudentPoll\StudentPoll\bin\Debug\StudentPoll.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+c:\users\siddh\documents\visual studio 2015\Projects\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb

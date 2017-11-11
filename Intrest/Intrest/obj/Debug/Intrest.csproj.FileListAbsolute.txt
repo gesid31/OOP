@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\Intrest\Intrest\bin\Debug\Intrest.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\Intrest\Intrest\bin\Debug\Intrest.exe
+c:\users\siddh\documents\visual studio 2015\Projects\Intrest\Intrest\bin\Debug\Intrest.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\Intrest\Intrest\obj\Debug\Intrest.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\Intrest\Intrest\obj\Debug\Intrest.exe
+c:\users\siddh\documents\visual studio 2015\Projects\Intrest\Intrest\obj\Debug\Intrest.pdb

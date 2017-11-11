@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\gradeBook W SwitchCase\gradeBook W SwitchCase\bin\Debug\gradeBook W SwitchCase.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\gradeBook W SwitchCase\gradeBook W SwitchCase\bin\Debug\gradeBook W SwitchCase.exe
+c:\users\siddh\documents\visual studio 2015\Projects\gradeBook W SwitchCase\gradeBook W SwitchCase\bin\Debug\gradeBook W SwitchCase.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\gradeBook W SwitchCase\gradeBook W SwitchCase\obj\Debug\gradeBook W SwitchCase.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\gradeBook W SwitchCase\gradeBook W SwitchCase\obj\Debug\gradeBook W SwitchCase.exe
+c:\users\siddh\documents\visual studio 2015\Projects\gradeBook W SwitchCase\gradeBook W SwitchCase\obj\Debug\gradeBook W SwitchCase.pdb

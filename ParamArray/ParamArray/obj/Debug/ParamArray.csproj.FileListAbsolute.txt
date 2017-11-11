@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\ParamArray\ParamArray\bin\Debug\ParamArray.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\ParamArray\ParamArray\bin\Debug\ParamArray.exe
+c:\users\siddh\documents\visual studio 2015\Projects\ParamArray\ParamArray\bin\Debug\ParamArray.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\ParamArray\ParamArray\obj\Debug\ParamArray.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\ParamArray\ParamArray\obj\Debug\ParamArray.exe
+c:\users\siddh\documents\visual studio 2015\Projects\ParamArray\ParamArray\obj\Debug\ParamArray.pdb

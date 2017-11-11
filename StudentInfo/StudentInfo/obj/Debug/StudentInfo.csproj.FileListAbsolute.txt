@@ -1,0 +1,6 @@
+C:\Users\siddh\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\siddh\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\siddh\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\siddh\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\siddh\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\siddh\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb

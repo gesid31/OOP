@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\GameOfCraps\GameOfCraps\bin\Debug\GameOfCraps.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\GameOfCraps\GameOfCraps\bin\Debug\GameOfCraps.exe
+c:\users\siddh\documents\visual studio 2015\Projects\GameOfCraps\GameOfCraps\bin\Debug\GameOfCraps.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps.exe
+c:\users\siddh\documents\visual studio 2015\Projects\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps.pdb

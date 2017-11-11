@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\FinalGrade\FinalGrade\bin\Debug\FinalGrade.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\FinalGrade\FinalGrade\obj\Debug\FinalGrade.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\FinalGrade\FinalGrade\bin\Debug\FinalGrade.exe
+c:\users\siddh\documents\visual studio 2015\Projects\FinalGrade\FinalGrade\bin\Debug\FinalGrade.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\FinalGrade\FinalGrade\obj\Debug\FinalGrade.exe
+c:\users\siddh\documents\visual studio 2015\Projects\FinalGrade\FinalGrade\obj\Debug\FinalGrade.pdb

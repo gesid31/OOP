@@ -1,0 +1,5 @@
+c:\users\siddh\documents\visual studio 2015\Projects\ArrayRollDie\ArrayRollDie\bin\Debug\ArrayRollDie.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\ArrayRollDie\ArrayRollDie\bin\Debug\ArrayRollDie.exe
+c:\users\siddh\documents\visual studio 2015\Projects\ArrayRollDie\ArrayRollDie\bin\Debug\ArrayRollDie.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\ArrayRollDie\ArrayRollDie\obj\Debug\ArrayRollDie.exe
+c:\users\siddh\documents\visual studio 2015\Projects\ArrayRollDie\ArrayRollDie\obj\Debug\ArrayRollDie.pdb

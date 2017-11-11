@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\Analysis\Analysis\bin\Debug\Analysis.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\Analysis\Analysis\bin\Debug\Analysis.exe
+c:\users\siddh\documents\visual studio 2015\Projects\Analysis\Analysis\bin\Debug\Analysis.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\Analysis\Analysis\obj\Debug\Analysis.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\Analysis\Analysis\obj\Debug\Analysis.exe
+c:\users\siddh\documents\visual studio 2015\Projects\Analysis\Analysis\obj\Debug\Analysis.pdb

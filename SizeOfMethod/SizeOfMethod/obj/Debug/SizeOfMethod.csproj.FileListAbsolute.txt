@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\SizeOfMethod\SizeOfMethod\bin\Debug\SizeOfMethod.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\SizeOfMethod\SizeOfMethod\bin\Debug\SizeOfMethod.exe
+c:\users\siddh\documents\visual studio 2015\Projects\SizeOfMethod\SizeOfMethod\bin\Debug\SizeOfMethod.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\SizeOfMethod\SizeOfMethod\obj\Debug\SizeOfMethod.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\SizeOfMethod\SizeOfMethod\obj\Debug\SizeOfMethod.exe
+c:\users\siddh\documents\visual studio 2015\Projects\SizeOfMethod\SizeOfMethod\obj\Debug\SizeOfMethod.pdb

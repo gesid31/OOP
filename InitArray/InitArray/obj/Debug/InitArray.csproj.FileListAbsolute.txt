@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\InitArray\InitArray\bin\Debug\InitArray.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\InitArray\InitArray\bin\Debug\InitArray.exe
+c:\users\siddh\documents\visual studio 2015\Projects\InitArray\InitArray\bin\Debug\InitArray.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\InitArray\InitArray\obj\Debug\InitArray.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\InitArray\InitArray\obj\Debug\InitArray.exe
+c:\users\siddh\documents\visual studio 2015\Projects\InitArray\InitArray\obj\Debug\InitArray.pdb

@@ -1,0 +1,6 @@
+c:\users\siddh\documents\visual studio 2015\Projects\RefAndOut Method\RefAndOut Method\bin\Debug\RefAndOut Method.exe.config
+c:\users\siddh\documents\visual studio 2015\Projects\RefAndOut Method\RefAndOut Method\bin\Debug\RefAndOut Method.exe
+c:\users\siddh\documents\visual studio 2015\Projects\RefAndOut Method\RefAndOut Method\bin\Debug\RefAndOut Method.pdb
+c:\users\siddh\documents\visual studio 2015\Projects\RefAndOut Method\RefAndOut Method\obj\Debug\RefAndOut Method.csprojResolveAssemblyReference.cache
+c:\users\siddh\documents\visual studio 2015\Projects\RefAndOut Method\RefAndOut Method\obj\Debug\RefAndOut Method.exe
+c:\users\siddh\documents\visual studio 2015\Projects\RefAndOut Method\RefAndOut Method\obj\Debug\RefAndOut Method.pdb
